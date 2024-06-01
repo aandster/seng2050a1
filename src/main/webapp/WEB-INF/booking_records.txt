@@ -1,0 +1,42 @@
+2024-03-01|06:00|Doctor Alice|Jordan|jordan@mail.com|22 Address St, Newcastle NSW|0400000000
+2024-03-02|08:00|Doctor Bob|Jordan|jordan2@mail.com|99 Street Pl, Newcastle NSW|04111111111
+2024-03-02|09:00|Doctor Alice|Mary|j@mail.com| | 
+2024-03-03|09:00|Doctor Alice|Mary|j@mail.com| | 
+2024-03-05|09:00|Doctor Alice|Mary|j@mail.com| | 
+2024-03-04|09:30|Doctor Alice|Beth|j@mail.com| | 
+2024-03-05|14:30|Doctor Alice|Beth|j@mail.com| | 
+2024-03-02|11:30|Doctor Alice|Beth|j@mail.com| | 
+2024-03-03|09:30|Doctor Alice|Beth|j@mail.com| | 
+2024-03-02|10:00|Doctor Alice|Frank|j@mail.com| | 
+2024-03-03|10:00|Doctor Alice|Frank|j@mail.com| | 
+2024-03-05|10:00|Doctor Alice|Frank|j@mail.com| | 
+2024-03-02|10:30|Doctor Alice|Joan|j@mail.com| | 
+2024-03-01|13:00|Doctor Alice|Bryan|fewfwf@ooooo| |345345353
+2024-03-01|13:30|Doctor Alice|Bryan|fewfwf@sssss|qwdqwdqw|345345
+2024-03-29|06:00|Doctor Alice|Jeff|jeff88@mail.com|88 Jeff St, Hamilton NSW|0488888888
+2024-03-29|10:00|Doctor Alice|Jeff|jeff88@mail.com|88 Jeff St, Hamilton NSW|0488888888
+2024-03-29|08:00|Doctor Alice|Jordan|jordan@mail.com| |049599434924234234234
+2024-03-30|08:30|Doctor Alice|Simon|wefwef@ewer|444444 street|3123123123123123
+2024-03-30|12:30|Doctor Alice|Simon|efqef@eefwef|efefefef|wefwefwefwef
+2024-04-02|08:30|Doctor Bob|Simon|new@simon| | 
+2024-03-28|08:00|Doctor Alice|Tom|tom@tom| | 
+2024-04-01|10:00|Doctor Bob|Tom|wfwef@sfwefw| | 
+2024-04-03|10:30|Doctor Bob|Tom|wefef@wddddw| | 
+2024-03-30|11:00|Doctor Alice|Tom|eefw@fffwe__rrrr__| | 
+2024-04-08|06:30|Doctor Carel|Tom|twoweowkr@weew| | 
+2024-04-02|10:30|Doctor Bob|Tom|wefwef@wefef| | 
+2024-03-28|11:00|Doctor Alice|Darrius|ifweoijfoeij@wiefweif|slay st|040404040400404
+2024-03-29|13:00|Doctor Alice|Darrius|wqwd@wefwe| | 
+2024-03-30|14:00|Doctor Alice|Darrius|efwef@wfwef| | 
+2024-04-02|07:30|Doctor Alice|Darrius|wefwe@wefwef| | 
+2024-04-02|11:00|Doctor Alice|Darrius|qwd@dddddd| | 
+2024-04-07|06:30|Doctor Alice|wefwef|ewfwf@wfwef| | 
+2024-03-31|07:00|Doctor Alice|Jordan|vsvovou@fiewjf| | 
+2024-04-09|09:00|Doctor Alice|Jordan|ergergerg@| | 
+2024-03-31|10:00|Doctor Alice|Tom|ewfee@fwef| | 
+2024-04-01|12:30|Doctor Alice|Professor|efwef@wefwefwef|wefwefwef|eeeee
+2024-05-25|07:30|Doctor Bob|jordan|hbhb@ryyuu|gyuuygyug|ytgyuiij
+2024-05-09|07:30|Doctor Bob|jordan|uniujouijoi@|kmkjl|jnk
+2024-05-10|08:30|Doctor Bob|jordan|@| | 
+2024-05-08|09:30|Doctor Bob|jordan|@| | 
+2024-05-14|08:00|Doctor Bob|jordan|@| | 

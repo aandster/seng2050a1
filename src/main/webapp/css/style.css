@@ -1,0 +1,24 @@
+/* Jordan Maddock c3259753 SENG2050 Assignment 1 2024*/
+
+div.relative_navigation > form {
+    display: inline;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
+td.confirmed {
+    background-color: lightgreen;
+}
+
+td.restricted {
+    background-color: lightgrey;
+}
+
+td.unavailable {
+    background-color: grey;
+}
